@@ -153,7 +153,27 @@ sfml-system.lib
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Resources.cpp" />
+    <ClCompile Include="Window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sfml-audio-3.dll" />
+    <None Include="sfml-audio-d-3.dll" />
+    <None Include="sfml-graphics-3.dll" />
+    <None Include="sfml-graphics-d-3.dll" />
+    <None Include="sfml-network-3.dll" />
+    <None Include="sfml-network-d-3.dll" />
+    <None Include="sfml-system-3.dll" />
+    <None Include="sfml-system-d-3.dll" />
+    <None Include="sfml-window-3.dll" />
+    <None Include="sfml-window-d-3.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Resources.h" />
+    <ClInclude Include="Window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,20 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\MEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\XMEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149953AF-D470-41A0-8CC8-F50EFC8F6A40}|Program.vcxproj|solutionrelative:Window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\RenderStates.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Shader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Rect.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\System\\FileInputStream.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,61 +55,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\memory",
+              "ViewState": "AgIAAB0OAAAAAAAAAAASwC0OAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T09:24:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xmemory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xmemory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xmemory",
+              "ViewState": "AgIAAMsCAAAAAAAAAAASwNsCAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-21T09:07:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.cpp",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.cpp",
+              "RelativeDocumentMoniker": "Resources.cpp",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.cpp",
+              "RelativeToolTip": "Resources.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-21T08:37:20.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.h",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.h",
+              "RelativeDocumentMoniker": "Resources.h",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Resources.h",
+              "RelativeToolTip": "Resources.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-21T08:29:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-21T07:51:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-21T07:45:28.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.cpp",
+              "RelativeDocumentMoniker": "Window.cpp",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.cpp",
+              "RelativeToolTip": "Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T06:04:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window.h",
+              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.h",
+              "RelativeDocumentMoniker": "Window.h",
+              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Window.h",
+              "RelativeToolTip": "Window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-20T06:01:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "RenderStates.hpp",
               "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\RenderStates.hpp",
               "RelativeDocumentMoniker": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\RenderStates.hpp",
               "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\RenderStates.hpp",
               "RelativeToolTip": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\RenderStates.hpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-10T01:03:22.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shader.hpp",
-              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Shader.hpp",
-              "RelativeDocumentMoniker": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\Shader.hpp",
-              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Shader.hpp",
-              "RelativeToolTip": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\Shader.hpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-10T01:01:07.884Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Rect.hpp",
-              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Rect.hpp",
-              "RelativeDocumentMoniker": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\Rect.hpp",
-              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\Graphics\\Rect.hpp",
-              "RelativeToolTip": "..\\..\\SFML-3.0.0\\include\\SFML\\Graphics\\Rect.hpp",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-10T01:01:05.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileInputStream.hpp",
-              "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\System\\FileInputStream.hpp",
-              "RelativeDocumentMoniker": "..\\..\\SFML-3.0.0\\include\\SFML\\System\\FileInputStream.hpp",
-              "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SFML-3.0.0\\include\\SFML\\System\\FileInputStream.hpp",
-              "RelativeToolTip": "..\\..\\SFML-3.0.0\\include\\SFML\\System\\FileInputStream.hpp",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAIwIEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-10T01:01:03.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\nwond\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\The-Last-Witness\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-10T00:37:07.387Z",
               "EditorCaption": ""
