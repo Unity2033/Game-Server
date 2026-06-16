@@ -1,0 +1,1040 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.15f1 (c1aa84e375f6) revision 12692100'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 32478 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator" at "2026-06-16T12:15:45.3543627Z"
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-16T12:15:45Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+C:/Users/Administrator/Desktop/Game-Server/Program
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+50387
+-licensingIpc
+LicenseClient-Administrator
+-job-worker-count
+13
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Administrator/Desktop/Game-Server/Program
+C:/Users/Administrator/Desktop/Game-Server/Program
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [22684]  Target information:
+
+Player connection [22684]  * "[IP] 192.168.0.94 [Port] 0 [Flags] 2 [Guid] 668812732 [EditorId] 668812732 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-MSMA3UP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22684] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22684] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 13
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 4.42 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.15f1 (c1aa84e375f6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Administrator/Desktop/Game-Server/Program/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5060 Ti (ID=0x2d04)
+    Vendor:   NVIDIA
+    VRAM:     16050 MB
+    Driver:   32.0.15.9636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001215 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Administrator"
+[Licensing::IpcConnector] LicenseClient-Administrator channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator-6000.3.15" at "2026-06-16T12:15:46.2196636Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 6896, path: "C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              2755ca9d4ebe492f86fd5b40e234a005
+  Correlation Id:          8408fccf1de38d541a0cfc764bd7bfad
+  External correlation Id: 7713954998472787159
+  Machine Id:              SvejmJGsl/EFmq0OAjofjZYOfss=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Administrator-6000.3.15" (connect: 0.00s, validation: 0.00s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator-6000.3.15-notifications" at "2026-06-16T12:15:46.2247817Z"
+[Licensing::Module] Licensing Background thread has ended after 0.87s
+- Loaded All Assemblies, in  0.413 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.411 seconds
+Domain Reload Profiling: 824ms
+	BeginReloadAssembly (134ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (180ms)
+		LoadAssemblies (133ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (176ms)
+			TypeCache.Refresh (175ms)
+				TypeCache.ScanAssembly (160ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (411ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (358ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (75ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 14569174559127-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  0.926 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 1.28 ms, found 4 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.150 seconds
+Domain Reload Profiling: 2074ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (651ms)
+		LoadAssemblies (406ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (342ms)
+			TypeCache.Refresh (238ms)
+				TypeCache.ScanAssembly (208ms)
+			BuildScriptInfoCaches (86ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1150ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (940ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (135ms)
+			ProcessInitializeOnLoadAttributes (730ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6790 unused Assets / (4.3 MB). Loaded Objects now: 7590.
+Memory consumption went from 159.4 MB to 155.1 MB.
+Total: 8.190300 ms (FindLiveObjects: 1.206200 ms CreateObjectMapping: 0.315700 ms MarkObjects: 4.558900 ms  DeleteObjects: 2.108400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12411.978173 seconds.
+  path: Assets/Space Exploration/Icons/exoplanet-5-128.png
+  artifactKey: Guid(d3bc643210b56a24e8ed05f0c3bba93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/exoplanet-5-128.png using Guid(d3bc643210b56a24e8ed05f0c3bba93c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d379703cbba44e5aaf3e7f6249b66be') in 0.085577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Space Exploration/Icons/full-moon-128.png
+  artifactKey: Guid(3050a53ed98f2b141b5bcdf02f4d4d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/full-moon-128.png using Guid(3050a53ed98f2b141b5bcdf02f4d4d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab5aab9d92f31b9665f9bc7e243e349b') in 0.0116988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.366430 seconds.
+  path: Assets/Space Exploration/Icons/gem-2-256.png
+  artifactKey: Guid(9df2ef782e85ee44196438166d4567eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/gem-2-256.png using Guid(9df2ef782e85ee44196438166d4567eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4c1c57353e0845c87ebdeb6645dd4f0') in 0.0109508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Icons/gold-ore-64.png
+  artifactKey: Guid(e0c03f33de6ee5d4aba329a6e882286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/gold-ore-64.png using Guid(e0c03f33de6ee5d4aba329a6e882286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3a2d0f6e76618b324ebbc453e1f46ab') in 0.0113593 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Icons/gun-512.png
+  artifactKey: Guid(925f123ec5d89884886a29f195d2c21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/gun-512.png using Guid(925f123ec5d89884886a29f195d2c21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2281677a4396acb8cf1645572fc541f3') in 0.0128321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Icons/home-64.png
+  artifactKey: Guid(e67b9584f60bfef4f871d5cad7c8dd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/home-64.png using Guid(e67b9584f60bfef4f871d5cad7c8dd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c5118bb3c36d239bfd32acf86ba9f561') in 0.0115853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Icons/half-moon-256.png
+  artifactKey: Guid(5cb31b8763fde95479ccfadf04ad1454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/half-moon-256.png using Guid(5cb31b8763fde95479ccfadf04ad1454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d2c0f6a3739c800ddd12b9d0dcba332') in 0.0135346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.348282 seconds.
+  path: Assets/Space Exploration/Icons/key-1-64.png
+  artifactKey: Guid(3db273939103f16429dc75ae5cba09fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/key-1-64.png using Guid(3db273939103f16429dc75ae5cba09fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75dce83b04922ac14a22ddd7ef96d59b') in 0.0123615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Icons/key-2-512.png
+  artifactKey: Guid(f980377146d3b0e458684eb6e5d51bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/key-2-512.png using Guid(f980377146d3b0e458684eb6e5d51bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '316eee42bf7fb18c712b8fff560b1296') in 0.0115418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.345179 seconds.
+  path: Assets/Space Exploration/Icons/mail-128.png
+  artifactKey: Guid(24f521615e9b793408584ec5c6f6fd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/mail-128.png using Guid(24f521615e9b793408584ec5c6f6fd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12618dd24612a3e5136120a4a0b3fc3c') in 0.0106942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Space Exploration/Icons/map-512.png
+  artifactKey: Guid(5f457ecf1bad8fb43b89f6b33abbb205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/map-512.png using Guid(5f457ecf1bad8fb43b89f6b33abbb205) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84749c70dd844d19b29e3c02e595e3e1') in 0.0114491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Icons/mushroom-64.png
+  artifactKey: Guid(6b27974cad5c64e4da470844ef745bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/mushroom-64.png using Guid(6b27974cad5c64e4da470844ef745bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aaf6a322c6ddf53ed276c61dc83c5df1') in 0.0119366 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Icons/no-ads-64.png
+  artifactKey: Guid(d3147a4d1f7925e4c8b17ecb59deaa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/no-ads-64.png using Guid(d3147a4d1f7925e4c8b17ecb59deaa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c8f4445d8e68aabfdc63d2c5f5dd545') in 0.0108731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Icons/pickaxe-128.png
+  artifactKey: Guid(5d85370f0d59b384e88d10ff1737ffc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/pickaxe-128.png using Guid(5d85370f0d59b384e88d10ff1737ffc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '037ef73604ef25f9b2ff3e2b32737e6b') in 0.0117398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Space Exploration/Icons/pluto-128.png
+  artifactKey: Guid(61e4f738a49b8fd4d888564afd2a6401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/pluto-128.png using Guid(61e4f738a49b8fd4d888564afd2a6401) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7670c7ca1e5ec581d96ad05ae6e0857') in 0.0123803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Icons/mercury-256.png
+  artifactKey: Guid(8eff535aa648bf34da32bf1bbc5c9317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/mercury-256.png using Guid(8eff535aa648bf34da32bf1bbc5c9317) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a5e40606046734419a64c3bdadee9df') in 0.0116588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.496134 seconds.
+  path: Assets/Space Exploration/Icons/potion-green-3-64.png
+  artifactKey: Guid(d315a8337c8b76941b9812555c35b8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/potion-green-3-64.png using Guid(d315a8337c8b76941b9812555c35b8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd590c94b0c617a13372f29e381cc9ce') in 0.0107101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Icons/potion-pink-1-256.png
+  artifactKey: Guid(67a0f83169aba7a4f9dbbb13118c2c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/potion-pink-1-256.png using Guid(67a0f83169aba7a4f9dbbb13118c2c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c2f3abb2199dbfd8092e96dd4dd8c21') in 0.0112872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Space Exploration/Icons/potion-pink-3-512.png
+  artifactKey: Guid(d9825f5efff50324ea76875f539479d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/potion-pink-3-512.png using Guid(d9825f5efff50324ea76875f539479d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5bfcebe254085ab45b53e06303bd3dd') in 0.0115504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Icons/purple-ore-64.png
+  artifactKey: Guid(ebb3d78afb23fa94d9c6919ba8f66f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/purple-ore-64.png using Guid(ebb3d78afb23fa94d9c6919ba8f66f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39eee09e534603c88473c235d32c23e9') in 0.011142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Icons/rocket-128.png
+  artifactKey: Guid(d4cb51f642015c44294a9fc6ceaa2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/rocket-128.png using Guid(d4cb51f642015c44294a9fc6ceaa2aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4c61ffb5fde3c37f9151b68a142d55e3') in 0.0109594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.862826 seconds.
+  path: Assets/Space Exploration/Icons/saturn-256.png
+  artifactKey: Guid(6dbe90a48837cb54db4c6c58d0b281d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/saturn-256.png using Guid(6dbe90a48837cb54db4c6c58d0b281d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82bfcf013036f9c218c5ad239faa0cbd') in 0.0125644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Icons/scroll-128.png
+  artifactKey: Guid(6b136995987f87942aa75a973f3a2309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/scroll-128.png using Guid(6b136995987f87942aa75a973f3a2309) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a2d4029b146eb16c05f9378e9bbf7a7') in 0.0113179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Icons/shop-512.png
+  artifactKey: Guid(18b6c9889d997f54dba5891f09ecfe04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/shop-512.png using Guid(18b6c9889d997f54dba5891f09ecfe04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af454d570b3af86f50db3cfc7f104a17') in 0.0119991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Space Exploration/Icons/skull-64.png
+  artifactKey: Guid(a50b11c715a38864ebf25788838d577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/skull-64.png using Guid(a50b11c715a38864ebf25788838d577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d77d62f26c9471a75cb5b882d28d645') in 0.0125254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Space Exploration/Icons/solar-system-2-128.png
+  artifactKey: Guid(adf705fdb61d36f45b4de9500c28fdaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/solar-system-2-128.png using Guid(adf705fdb61d36f45b4de9500c28fdaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f52fd4f0c61f8cdb5716e6ee5ac75bf') in 0.0106452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141560 seconds.
+  path: Assets/Space Exploration/Icons/sun-64.png
+  artifactKey: Guid(5af93d33849c57e4e8a5f54f03893c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/sun-64.png using Guid(5af93d33849c57e4e8a5f54f03893c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0f75465a6ba9176d033f03711294476') in 0.0106695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Icons/sword-1-512.png
+  artifactKey: Guid(10610a7d1a7b58c44bcd3d356fc62a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/sword-1-512.png using Guid(10610a7d1a7b58c44bcd3d356fc62a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42641cf073818482a35a3f3143fdc72c') in 0.0120742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Icons/sword-2-512.png
+  artifactKey: Guid(2a00b1f246d98324d84db8674b456a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/sword-2-512.png using Guid(2a00b1f246d98324d84db8674b456a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '15f21d8739531ca94309569695f76e96') in 0.012184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Icons/time-256.png
+  artifactKey: Guid(e49e78d936ad1954eb15e7b40b946e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/time-256.png using Guid(e49e78d936ad1954eb15e7b40b946e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cabc92c0bc87c900511665f80a2857c') in 0.0141059 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Icons/ufo-2-512.png
+  artifactKey: Guid(d05189fb408152946a4e66e542d97abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/ufo-2-512.png using Guid(d05189fb408152946a4e66e542d97abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fbe78d89694051ba1c055a2bc887312f') in 0.0116838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Icons/uranus-64.png
+  artifactKey: Guid(95a7aabfbe08d5a4b8a352eec5c83cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/uranus-64.png using Guid(95a7aabfbe08d5a4b8a352eec5c83cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82b53ea658cf846964e3fffa7da7576b') in 0.0116571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Space Exploration/Icons/uranus-256.png
+  artifactKey: Guid(8ad54993946182e428c94b9ea8968c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/uranus-256.png using Guid(8ad54993946182e428c94b9ea8968c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43be78a7b4f10eff6830794940ed17e2') in 0.0114798 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129378 seconds.
+  path: Assets/Space Exploration/Icons/venus-512.png
+  artifactKey: Guid(4f4a93aec386690478cd867df2d7c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Icons/venus-512.png using Guid(4f4a93aec386690478cd867df2d7c25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a2811335e7db098b8222a534ff0c3bd') in 0.0132843 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.269824 seconds.
+  path: Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/large-blue-large.png
+  artifactKey: Guid(d44b2578742c2ae40a3ef7a7c2363511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/large-blue-large.png using Guid(d44b2578742c2ae40a3ef7a7c2363511) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c24463378058409cd2126b90ffad811') in 0.0109896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/large-yellow-large.png
+  artifactKey: Guid(e107fa9a61100ab4da5ea6e204229b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/large-yellow-large.png using Guid(e107fa9a61100ab4da5ea6e204229b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2b092afc9048ff088e24acb03395e17') in 0.010882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/square-yellow-large.png
+  artifactKey: Guid(4ad41d31660704f4db7136f2e82b5e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Source_Image_Sprites/large/square-yellow-large.png using Guid(4ad41d31660704f4db7136f2e82b5e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11142911965c1dde3b701f43d2437f72') in 0.0120058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.046916 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/pause-32.png
+  artifactKey: Guid(8e743225596bc3546b3c0211666ef300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/pause-32.png using Guid(8e743225596bc3546b3c0211666ef300) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '474829606473668b2e11adf0d27e6e84') in 0.0093791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/pencil-128.png
+  artifactKey: Guid(26339d7866570e046a15b6678108abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/pencil-128.png using Guid(26339d7866570e046a15b6678108abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '245cfed5f8ed542a2d78c1cc76707eaa') in 0.0104223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/pickaxe-128.png
+  artifactKey: Guid(63ee4784f9694684997b8276194107c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/pickaxe-128.png using Guid(63ee4784f9694684997b8276194107c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16ceed6df220c1e9d611f30195449838') in 0.0109014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/play-64.png
+  artifactKey: Guid(abc9a7b606890a24ab93af27d4886321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/play-64.png using Guid(abc9a7b606890a24ab93af27d4886321) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e99c9178f563b32c6dddd12c1e8640fd') in 0.0098195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026481 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/power-32.png
+  artifactKey: Guid(c995154a14a66f8468de75837de54a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/power-32.png using Guid(c995154a14a66f8468de75837de54a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1465c1953a2cfa1c4cf2d91d4e068f48') in 0.0094808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/question-128.png
+  artifactKey: Guid(c71cd834eaf938b49a1e6b73d7e7967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/question-128.png using Guid(c71cd834eaf938b49a1e6b73d7e7967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd64e9238e62ef0c7210d0caebb579677') in 0.0107219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046251 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/redo-256.png
+  artifactKey: Guid(2a103480e6032824086cf76f822573a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/redo-256.png using Guid(2a103480e6032824086cf76f822573a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45dc1315e571ea8b50e1413c74c40697') in 0.0102969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/right-arrow-64.png
+  artifactKey: Guid(51ef9fc937ae05b418a9fe8dbc569d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/right-arrow-64.png using Guid(51ef9fc937ae05b418a9fe8dbc569d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77d61592b08cd22aae4688bf7257f1b4') in 0.0107027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.051853 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/mic-off-256.png
+  artifactKey: Guid(1c628a4abe5588144b9d97c3eafffb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/mic-off-256.png using Guid(1c628a4abe5588144b9d97c3eafffb17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '87ce9025bfc13304886800db44ea07b7') in 0.0100038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/music-32.png
+  artifactKey: Guid(4badbfc55af14c04cbdd020edd2d99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/music-32.png using Guid(4badbfc55af14c04cbdd020edd2d99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '142e916cef859bfcf7699980ac6489d1') in 0.0096197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.978440 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/saturn-32.png
+  artifactKey: Guid(fd20e3c5e8d6c1a4285308e216498af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/saturn-32.png using Guid(fd20e3c5e8d6c1a4285308e216498af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddd6c852bc0cc56d6f02cf25a4a1a9a7') in 0.0089013 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/send-128.png
+  artifactKey: Guid(60e7e1bb7174e7e4fba4d86408b1d57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/send-128.png using Guid(60e7e1bb7174e7e4fba4d86408b1d57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75adc122454e6347c9fc433cc9672406') in 0.0109606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035207 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/share-32.png
+  artifactKey: Guid(111d37f00b3ad0149b5bea37a4b331fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/share-32.png using Guid(111d37f00b3ad0149b5bea37a4b331fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '298bc7915dc72b9eb1f97e171d833d5b') in 0.0107371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.815165 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/shield-64.png
+  artifactKey: Guid(3cf1fa5d0dcc06b42b096ad9771a8cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/shield-64.png using Guid(3cf1fa5d0dcc06b42b096ad9771a8cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '422d10c9dff497ade333bf7e854219db') in 0.0092717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/shop-256.png
+  artifactKey: Guid(d9bf06a8919d5664f9368c4c0fd9f1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/shop-256.png using Guid(d9bf06a8919d5664f9368c4c0fd9f1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e76585e8ac6547cc58a4cd6ee46fdaa') in 0.0120054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.220598 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/skull-128.png
+  artifactKey: Guid(cc84e103ffe7d72408eb89b26b938704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/skull-128.png using Guid(cc84e103ffe7d72408eb89b26b938704) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9de8beed7add1cd872a3e67b28171fe2') in 0.0097984 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/snowflake-256.png
+  artifactKey: Guid(2e872175041a75c4da7ccf208de7d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/snowflake-256.png using Guid(2e872175041a75c4da7ccf208de7d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '656d5dd25098f590ac7f295c370f143e') in 0.0113736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.453364 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/sound-off-256.png
+  artifactKey: Guid(be1bb67d845c70d4db603c9db2a6c82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/sound-off-256.png using Guid(be1bb67d845c70d4db603c9db2a6c82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba1e6c4245b7015f45c6cf21bd686819') in 0.0104029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/star-128.png
+  artifactKey: Guid(6b74fac32ba06934eb64acf2c1069efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/star-128.png using Guid(6b74fac32ba06934eb64acf2c1069efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddbe3a888ffc32c5f1c481a08f30cfec') in 0.0112964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.437619 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/sword-32.png
+  artifactKey: Guid(cef7a5ea52f434d42975a044635c01ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/sword-32.png using Guid(cef7a5ea52f434d42975a044635c01ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6be613f3a7034303f53594e159bf49f') in 0.0101907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/telescope-256.png
+  artifactKey: Guid(233f282d4bb57ad45ba138f0aa9ef74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/telescope-256.png using Guid(233f282d4bb57ad45ba138f0aa9ef74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '534326f2839ccd43c0c7da4a7b6f0310') in 0.0120572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/trophy-2-128.png
+  artifactKey: Guid(b1a7b89af8a750f4fa78a89e27a6ba3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/trophy-2-128.png using Guid(b1a7b89af8a750f4fa78a89e27a6ba3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bce8976a9978cf05f30454be19f7857') in 0.0111392 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/try-again-64.png
+  artifactKey: Guid(09b8b5820cdad1f4693f5610ce79f401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/try-again-64.png using Guid(09b8b5820cdad1f4693f5610ce79f401) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25341a9a4cd7fc328e5e38d6df42791e') in 0.0110055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/unlock-64.png
+  artifactKey: Guid(f7bd18fbb755b7e44ace11bb1c6badfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/unlock-64.png using Guid(f7bd18fbb755b7e44ace11bb1c6badfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a5d94fcbc2b870a56b2021c344afaf97') in 0.0107399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.367357 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/up-arrow-128.png
+  artifactKey: Guid(59de9c85495c65c42955e29dca2f54d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/up-arrow-128.png using Guid(59de9c85495c65c42955e29dca2f54d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a9a22baabec08dfd878d78a781c1cb1') in 0.0099921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/web-32.png
+  artifactKey: Guid(83bc2c150e2709f489cd818944849c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/web-32.png using Guid(83bc2c150e2709f489cd818944849c32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d5c080000e1a384d0f8e86d1e7ef112') in 0.0097371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/wifi-128.png
+  artifactKey: Guid(bb38b100c0ddffb4c8bdceb9e6b43398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/wifi-128.png using Guid(bb38b100c0ddffb4c8bdceb9e6b43398) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a98c4f8e12db546a0a0b3c48445b3f4') in 0.0140884 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.427413 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/wrench-256.png
+  artifactKey: Guid(45f8be5d8db8fe34dbac9ac6c5cd53a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/wrench-256.png using Guid(45f8be5d8db8fe34dbac9ac6c5cd53a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '514fde299ff61fb0dc4a7dfdcb64038c') in 0.0099125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/zoom-out-32.png
+  artifactKey: Guid(eed3c98bebfc04a419f372eab95480db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/zoom-out-32.png using Guid(eed3c98bebfc04a419f372eab95480db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c0488981da7199daaedae26af09a0783') in 0.009821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.225971 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/meat-128.png
+  artifactKey: Guid(93d4cc629545e944da1cce71c2dfbf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/meat-128.png using Guid(93d4cc629545e944da1cce71c2dfbf45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c35ea1e1b9e37467ac8e5304121b71f') in 0.0097479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/menu-32.png
+  artifactKey: Guid(aedf968ce71a6cc4f9d257300165cdee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/menu-32.png using Guid(aedf968ce71a6cc4f9d257300165cdee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e751106e4c646f37ffb720ee118b4d4d') in 0.0111098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.551919 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/lock-64.png
+  artifactKey: Guid(afacf36f8f32dcb43855aa3508a8c616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/lock-64.png using Guid(afacf36f8f32dcb43855aa3508a8c616) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '528b5c7c1b8dd7872d9bc4b5c4284b85') in 0.0092888 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/magnifying-256.png
+  artifactKey: Guid(a0ad15d9ad651204fbb8618bc79edaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/magnifying-256.png using Guid(a0ad15d9ad651204fbb8618bc79edaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6841c2b840d6e7aec8fcd3e9f296071') in 0.0107777 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/map-64.png
+  artifactKey: Guid(810b82e7ffd846d4dafedf703bba5f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/map-64.png using Guid(810b82e7ffd846d4dafedf703bba5f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5eac48d5bbd60159d52f02e2a16b5548') in 0.0088012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.333446 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/left-arrow-32.png
+  artifactKey: Guid(35d8631142c91724da7f12a240ed1fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/left-arrow-32.png using Guid(35d8631142c91724da7f12a240ed1fd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17cb712d433e9bfa6142428890b866e8') in 0.0091146 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/like-128.png
+  artifactKey: Guid(18d77eb97914e534b922fab82d5ebdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/like-128.png using Guid(18d77eb97914e534b922fab82d5ebdf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcef70e45446c80d56616ce0dbcf5082') in 0.0114498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294858 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/home-256.png
+  artifactKey: Guid(404b164952a870d4a94113777036e72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/home-256.png using Guid(404b164952a870d4a94113777036e72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8d61ce365b7f9eb32c4528419d9eb41') in 0.0106591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/info-64.png
+  artifactKey: Guid(a446e86fb932f6d4295386eb422b2582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/info-64.png using Guid(a446e86fb932f6d4295386eb422b2582) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95f5de86ae74b347e57585c6d20de3cf') in 0.0098039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570539 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/full-moon-128.png
+  artifactKey: Guid(356adf8ba1b47b84c8b4836dc9d1ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/full-moon-128.png using Guid(356adf8ba1b47b84c8b4836dc9d1ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cae84afb35b9e2104ec8bedc1c379ac9') in 0.0096836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/gun-256.png
+  artifactKey: Guid(bbff0444b0124fc41aff5dc4dc90a1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/gun-256.png using Guid(bbff0444b0124fc41aff5dc4dc90a1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dac78d11ddd845ba7147f3b8c21a7f5') in 0.0103862 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.255845 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/exclamation-64.png
+  artifactKey: Guid(b11c03ac31b5c34439b4d950979deb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/exclamation-64.png using Guid(b11c03ac31b5c34439b4d950979deb6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd61d359dc1c4665cca2c565597e952b4') in 0.0089347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/expand-128.png
+  artifactKey: Guid(d0c1888724a394946bf8f133d3dcd166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/expand-128.png using Guid(d0c1888724a394946bf8f133d3dcd166) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b27ee55ed9cda978946f0e9b9a18a369') in 0.0108588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.772183 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/door-32.png
+  artifactKey: Guid(6ded6e6750c22bf4f8ff30908b1248d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/door-32.png using Guid(6ded6e6750c22bf4f8ff30908b1248d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '377a6e2c59055ed22594ba58730d7684') in 0.0099061 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/down-arrow-128.png
+  artifactKey: Guid(13e8d0909f71e8843b7a2372c6aa4e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/down-arrow-128.png using Guid(13e8d0909f71e8843b7a2372c6aa4e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba379ceba709fc3c73691c02c44d0a4d') in 0.0108984 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.314461 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/crescent-moon-256.png
+  artifactKey: Guid(69f582cff653bb146a9182b3ed1e7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/crescent-moon-256.png using Guid(69f582cff653bb146a9182b3ed1e7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ccb2130639332b8f14d369bf878e7fb') in 0.0102604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/crown-32.png
+  artifactKey: Guid(a19b3170a658c0c419814e0ce10411a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/crown-32.png using Guid(a19b3170a658c0c419814e0ce10411a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6570f9bb4abe3d9f38014e87fb04e5c9') in 0.0106363 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.332217 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/check-128.png
+  artifactKey: Guid(891fe0bf71f319c4e9239bb7ca5994ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/check-128.png using Guid(891fe0bf71f319c4e9239bb7ca5994ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2712da911db9fe82da2e189ce1bb43c6') in 0.0102453 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/cloud-32.png
+  artifactKey: Guid(f3f7e6a73a1691c4da97d76ffcab44d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/cloud-32.png using Guid(f3f7e6a73a1691c4da97d76ffcab44d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69c8d519672365ce420fd51005cb4847') in 0.010432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/buy-128.png
+  artifactKey: Guid(caad6ab522445fd4fbc439ef9dec470e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/buy-128.png using Guid(caad6ab522445fd4fbc439ef9dec470e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4d1c374087199a4b06d27ef423ca91f') in 0.01074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/camera-128.png
+  artifactKey: Guid(cf26b817738b3f842a9e665575ae8d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/camera-128.png using Guid(cf26b817738b3f842a9e665575ae8d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c000a074c041215b8c0730784630a495') in 0.0103276 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/chat-32.png
+  artifactKey: Guid(8d2e2aaade9092b4ea0a579269f50911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/chat-32.png using Guid(8d2e2aaade9092b4ea0a579269f50911) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed62bcaacce5821e01f46c6d5b193bd6') in 0.0097933 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.278521 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/bolt-32.png
+  artifactKey: Guid(146a4f3fd9207e348a9d16053efa4319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/bolt-32.png using Guid(146a4f3fd9207e348a9d16053efa4319) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '204cd60d217cabe208f7e037405950c2') in 0.0094203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054402 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/book-256.png
+  artifactKey: Guid(36a02fbec333d7148b62b67e4f11c7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/book-256.png using Guid(36a02fbec333d7148b62b67e4f11c7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f34e53a8abfcc7bd2d3c80623450edc') in 0.0096697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/buy-32.png
+  artifactKey: Guid(692cc589b9cce2f41ac41504e17a12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/buy-32.png using Guid(692cc589b9cce2f41ac41504e17a12e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb06f277a11c287c36b53adb45541869') in 0.0096516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.154523 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/battle-256.png
+  artifactKey: Guid(97a25baa2af062a458ab8ddf19a4ee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/battle-256.png using Guid(97a25baa2af062a458ab8ddf19a4ee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4589bab665f2f0e237b042b3b9e43f4') in 0.0095871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/bell-off-32.png
+  artifactKey: Guid(434d3e306fecfe94a84cefac1b9e5e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/bell-off-32.png using Guid(434d3e306fecfe94a84cefac1b9e5e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f63c5ab37d58d7edb90685c8df6c1264') in 0.0093622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/astronaut-128.png
+  artifactKey: Guid(819f827cdd2021740bdb2554b96871bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/astronaut-128.png using Guid(819f827cdd2021740bdb2554b96871bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ae18155c9cb72d2a54015e98603e98f') in 0.0118477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/back-128.png
+  artifactKey: Guid(f57a45e2cef75df4ea52c82690f8c097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/back-128.png using Guid(f57a45e2cef75df4ea52c82690f8c097) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c79c89eb514772ef220a3c0b747b6f0') in 0.01101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/back-256.png
+  artifactKey: Guid(23d1cd24980d3364b88267a8a86fbe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/back-256.png using Guid(23d1cd24980d3364b88267a8a86fbe0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '678cdf0691de2b3036bdc29e84df7ca2') in 0.0132019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121658 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/add-person-64.png
+  artifactKey: Guid(bd5a4b1b12bb5f042941c05fb9b9f26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/add-person-64.png using Guid(bd5a4b1b12bb5f042941c05fb9b9f26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c7f4040ef94bbceb6f5489418812d59') in 0.0090407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058287 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/all-light-purple-32.png
+  artifactKey: Guid(8332c917fe7e06b419b28f2ceec38aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/all-light-purple-32.png using Guid(8332c917fe7e06b419b28f2ceec38aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '911da4f6c4721c8afba94ee47c30603e') in 0.0091717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/astronaut-64.png
+  artifactKey: Guid(588ef40c44543c345ae4c13a1f9786cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/astronaut-64.png using Guid(588ef40c44543c345ae4c13a1f9786cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64f59bddac8d94d31935da1a010dce55') in 0.0110549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/--64.png
+  artifactKey: Guid(93385b04d2a1ef043973a50026aedec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/--64.png using Guid(93385b04d2a1ef043973a50026aedec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77842dd3b41e17cadc60087143c1f64f') in 0.009509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Light_Purple/ad-32.png
+  artifactKey: Guid(a6f3ea3252e645f44b7415be2e44c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Light_Purple/ad-32.png using Guid(a6f3ea3252e645f44b7415be2e44c070) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '253fdf81b6fb6b5d71cff11c89140426') in 0.01048 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
