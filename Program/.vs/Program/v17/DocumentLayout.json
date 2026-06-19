@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\user interfaces\\errorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user interfaces\\errorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\user interfaces\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user interfaces\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\managers\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\managers\\playfabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\playfabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\managers\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\user interfaces\\errorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user interfaces\\errorpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\data\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,11 +31,7 @@
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user interfaces\\subscribepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\managers\\playfabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\playfabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "RoomPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:30:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\RoomManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\RoomManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T12:08:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Panel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Data\\Panel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Panel.cs",
@@ -50,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Data\\Panel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T12:32:22.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T12:32:22.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ErrorPanel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\ErrorPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\ErrorPanel.cs",
@@ -63,12 +96,11 @@
               "RelativeToolTip": "Assets\\Scripts\\User Interfaces\\ErrorPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T12:17:16.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T12:17:16.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SubscribePanel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\SubscribePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\SubscribePanel.cs",
@@ -76,25 +108,23 @@
               "RelativeToolTip": "Assets\\Scripts\\User Interfaces\\SubscribePanel.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T12:03:45.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T12:03:45.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PanelManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PanelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PanelManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PanelManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\PanelManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T12:26:39.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T12:26:39.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Core\\Singleton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Singleton.cs",
@@ -102,21 +132,19 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\Singleton.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T11:10:32.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T11:10:32.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PlayfabManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PlayfabManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PlayfabManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PlayfabManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\PlayfabManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAtwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:28:46.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:28:46.498Z"
             }
           ]
         }

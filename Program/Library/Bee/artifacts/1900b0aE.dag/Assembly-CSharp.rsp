@@ -489,7 +489,9 @@
 "Assets/Scripts/Data/Panel.cs"
 "Assets/Scripts/Managers/PanelManager.cs"
 "Assets/Scripts/Managers/PlayfabManager.cs"
+"Assets/Scripts/Managers/RoomManager.cs"
 "Assets/Scripts/User Interfaces/ErrorPanel.cs"
+"Assets/Scripts/User Interfaces/RoomPanel.cs"
 "Assets/Scripts/User Interfaces/SubscribePanel.cs"
 -langversion:9.0
 /deterministic

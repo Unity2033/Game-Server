@@ -36,6 +36,11 @@ public class PlayfabManager : MonoBehaviourPunCallbacks
         PhotonNetwork.ConnectUsingSettings();
     }
 
+    public void Open()
+    {
+        PanelManager.Instance.Open(Panel.Subscribe);
+    }
+
     public override void OnConnectedToMaster()
     {
         PhotonNetwork.JoinLobby();
@@ -44,7 +49,6 @@ public class PlayfabManager : MonoBehaviourPunCallbacks
     public void Success(GetAccountInfoResult getAccountInfoResult)
     {
         PhotonNetwork.LocalPlayer.NickName = getAccountInfoResult.AccountInfo?.Username;
-
     }
 
     public void Failed(PlayFabError playFabError)

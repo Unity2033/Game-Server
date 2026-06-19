@@ -71,6 +71,7 @@
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\EnableOnStart.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\ChatSettings.cs" />
     <Compile Include="Assets\Scripts\Managers\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\RoomManager.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\ChatIdCheckerUI.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\DestroyOnStart.cs" />
     <Compile Include="Assets\Scripts\Data\Panel.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
     <Compile Include="Assets\Scripts\User Interfaces\ErrorPanel.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\TextButtonTransition.cs" />
+    <Compile Include="Assets\Scripts\User Interfaces\RoomPanel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
