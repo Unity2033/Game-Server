@@ -1,0 +1,328 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.15f1 (c1aa84e375f6) revision 12692100'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator" at "2026-06-23T11:20:27.9664676Z"
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 32478 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-23T11:20:27Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/Administrator/Desktop/Game-Server/Program
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+51543
+-licensingIpc
+LicenseClient-Administrator
+-job-worker-count
+13
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/Administrator/Desktop/Game-Server/Program
+C:/Users/Administrator/Desktop/Game-Server/Program
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [21540]  Target information:
+
+Player connection [21540]  * "[IP] 192.168.0.55 [Port] 0 [Flags] 2 [Guid] 3627707193 [EditorId] 3627707193 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-MSMA3UP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [21540] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [21540] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 13
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.15f1 (c1aa84e375f6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Administrator/Desktop/Game-Server/Program/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5060 Ti (ID=0x2d04)
+    Vendor:   NVIDIA
+    VRAM:     16050 MB
+    Driver:   32.0.15.9636
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001563 seconds.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-Administrator"
+[Licensing::IpcConnector] LicenseClient-Administrator channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator-6000.3.15" at "2026-06-23T11:20:28.9025862Z"
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 8968, path: "C:/Program Files/Unity/Hub/Editor/6000.3.15f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              a5d33fa1ff914918ac842148fd097a8b
+  Correlation Id:          82bb4f86f45519d94736bd176320c77c
+  External correlation Id: 6860938502009114817
+  Machine Id:              SvejmJGsl/EFmq0OAjofjZYOfss=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Administrator-6000.3.15" (connect: 0.00s, validation: 0.00s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Administrator-6000.3.15-notifications" at "2026-06-23T11:20:28.9089215Z"
+[Licensing::Module] Licensing Background thread has ended after 0.94s
+- Loaded All Assemblies, in  0.481 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.460 seconds
+Domain Reload Profiling: 941ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (210ms)
+		LoadAssemblies (159ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (207ms)
+			TypeCache.Refresh (205ms)
+				TypeCache.ScanAssembly (185ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (461ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (401ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (55ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (98ms)
+			ProcessInitializeOnLoadAttributes (160ms)
+			ProcessInitializeOnLoadMethodAttributes (83ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 14569174559127-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  1.082 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Refreshing native plugins compatible for Editor in 1.29 ms, found 4 plugins.
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.234 seconds
+Domain Reload Profiling: 2315ms
+	BeginReloadAssembly (215ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (761ms)
+		LoadAssemblies (499ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (386ms)
+			TypeCache.Refresh (273ms)
+				TypeCache.ScanAssembly (234ms)
+			BuildScriptInfoCaches (94ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1234ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1002ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (143ms)
+			ProcessInitializeOnLoadAttributes (785ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.26 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6794 unused Assets / (3.9 MB). Loaded Objects now: 7594.
+Memory consumption went from 159.1 MB to 155.2 MB.
+Total: 11.358200 ms (FindLiveObjects: 2.031200 ms CreateObjectMapping: 1.204200 ms MarkObjects: 5.385700 ms  DeleteObjects: 2.735600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9328.248407 seconds.
+  path: Assets/Space Exploration/Picto_Icons/White/axe-128.png
+  artifactKey: Guid(96c38827093d82c47b6407a4231d9e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/White/axe-128.png using Guid(96c38827093d82c47b6407a4231d9e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a1e019bb4c9427d7b521a730c68f1d75') in 0.0999049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.026205 seconds.
+  path: Assets/Space Exploration/Button_Images/Highlighted_Sprite/extra large/extra-long-pink-highlight-extra-large.png
+  artifactKey: Guid(4d450abbfe5394442b052ab2bd349233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Highlighted_Sprite/extra large/extra-long-pink-highlight-extra-large.png using Guid(4d450abbfe5394442b052ab2bd349233) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba3d2eb0e687bdc2e826cbedd2edef5e') in 0.0128556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Exploration/Button_Images/Pressed_Sprites/Large/extra-long-pink-pressed-large.png
+  artifactKey: Guid(591e2d119c429084eb19edb8f718d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Pressed_Sprites/Large/extra-long-pink-pressed-large.png using Guid(591e2d119c429084eb19edb8f718d6d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c9941e67ab214a4a95226f1ae9588317') in 0.0146276 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.801642 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Dark_Purple/home-64.png
+  artifactKey: Guid(c2a32d5b07232b74c90db9ad2fc7401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Dark_Purple/home-64.png using Guid(c2a32d5b07232b74c90db9ad2fc7401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b16196145843339b2aac5b8ba42583c') in 0.0111657 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030745 seconds.
+  path: Assets/Space Exploration/Grid_Components/Small/homepage-icon-container-small.png
+  artifactKey: Guid(15aab8ffef43420418a544807255531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Grid_Components/Small/homepage-icon-container-small.png using Guid(15aab8ffef43420418a544807255531b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49edbda19eae3afdf77b284c033fbb68') in 0.0105805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217784 seconds.
+  path: Assets/Space Exploration/Grid_Components/Extra Large/item-info-picto-icon-container-extra-large.png
+  artifactKey: Guid(63a0bc6a4f1e52d4c9309e3620a294f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Grid_Components/Extra Large/item-info-picto-icon-container-extra-large.png using Guid(63a0bc6a4f1e52d4c9309e3620a294f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c6d9bfc5c52a5b9f32200b4d9996e90') in 0.0135912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.651187 seconds.
+  path: Assets/Space Exploration/Button_Images/Highlighted_Sprite/small/large-pink-highlight-small.png
+  artifactKey: Guid(9d2b5f32baf435a4aac889d9c6bb4f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Button_Images/Highlighted_Sprite/small/large-pink-highlight-small.png using Guid(9d2b5f32baf435a4aac889d9c6bb4f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06a6c8b89fccb25b3ddae3a9c468b073') in 0.0122256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.345509 seconds.
+  path: Assets/Space Exploration/Settings_&_Menu_Components/Small/level-icon-small.png
+  artifactKey: Guid(7d38e6509983ed34f8f269518669f503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Settings_&_Menu_Components/Small/level-icon-small.png using Guid(7d38e6509983ed34f8f269518669f503) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d37e8d44eb8efbd5597c0434e051256') in 0.0123003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Space Exploration/Containers/Small/level-up-icon-container-small.png
+  artifactKey: Guid(c82f494df8a40fd4ba011718b1b81f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Containers/Small/level-up-icon-container-small.png using Guid(c82f494df8a40fd4ba011718b1b81f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cc0a2a4f36b1238d65539ad9c16a852') in 0.0101871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Exploration/Picto_Icons/Dark_Purple/like-256.png
+  artifactKey: Guid(184d734753fdd3e4ba45480e855b49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/Dark_Purple/like-256.png using Guid(184d734753fdd3e4ba45480e855b49dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98a3df82046ed92a6a6ee8aa86e22186') in 0.0112954 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031787 seconds.
+  path: Assets/Space Exploration/Settings_&_Menu_Components/Small/missions-container-small.png
+  artifactKey: Guid(1b11b330eb347f2419682693b7f2a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Settings_&_Menu_Components/Small/missions-container-small.png using Guid(1b11b330eb347f2419682693b7f2a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4445bf0d999b253d02a0a8ffcf699025') in 0.0107342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.389939 seconds.
+  path: Assets/Space Exploration/Picto_Icons/White/person-128.png
+  artifactKey: Guid(22be3dc3e2e39ae4cb216e32a7e3376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Exploration/Picto_Icons/White/person-128.png using Guid(22be3dc3e2e39ae4cb216e32a7e3376d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff71f23b324ca84654cf8aeec979701b') in 0.0124781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
