@@ -71,6 +71,7 @@
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\IgnoreUiRaycastWhenInactive.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\EnableOnStart.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\ChatSettings.cs" />
+    <Compile Include="Assets\Scripts\Managers\NetworkManager.cs" />
     <Compile Include="Assets\Scripts\User Interfaces\RoomStatus.cs" />
     <Compile Include="Assets\Scripts\Managers\PanelManager.cs" />
     <Compile Include="Assets\Scripts\Managers\RoomManager.cs" />

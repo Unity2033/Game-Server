@@ -604,7 +604,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 984e44f70fb1771438e48716a4e7b58e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RoomManager
-  parentTransform: {fileID: 0}
+  parentTransform: {fileID: 716762857}
 --- !u!1 &1626109748
 GameObject:
   m_ObjectHideFlags: 0
@@ -951,7 +951,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1952730318}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1489470587}
+        m_TargetAssemblyTypeName: RoomManager, Assembly-CSharp
+        m_MethodName: Open
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1952730318
 MonoBehaviour:
   m_ObjectHideFlags: 0

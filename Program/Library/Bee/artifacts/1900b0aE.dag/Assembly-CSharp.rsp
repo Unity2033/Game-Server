@@ -488,6 +488,7 @@
 "Assets/Scripts/Core/Singleton.cs"
 "Assets/Scripts/Data/Data.cs"
 "Assets/Scripts/Data/Panel.cs"
+"Assets/Scripts/Managers/NetworkManager.cs"
 "Assets/Scripts/Managers/PanelManager.cs"
 "Assets/Scripts/Managers/PlayfabManager.cs"
 "Assets/Scripts/Managers/RoomManager.cs"
