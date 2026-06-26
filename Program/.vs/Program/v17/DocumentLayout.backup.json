@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game-server\\program\\assets\\scripts\\user interfaces\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\assets\\scripts\\user interfaces\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F3AAF5-E66B-9AA0-1FC4-8CF8BF707240}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\user interfaces\\roompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,19 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Character\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Character.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Character\\Character.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Character.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:40:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\NetworkManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\NetworkManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Managers\\NetworkManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T12:18:39.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RoomStatus.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\RoomStatus.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\RoomStatus.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Data\\Data.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Data.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Photon\\PhotonRealtime\\Code\\Room.cs",
               "RelativeDocumentMoniker": "Assets\\Photon\\PhotonRealtime\\Code\\Room.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RoomManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\RoomManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\RoomManager.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RoomPanel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
@@ -135,12 +152,11 @@
               "RelativeToolTip": "Assets\\Scripts\\User Interfaces\\RoomPanel.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T12:30:41.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T12:30:41.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Panel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Data\\Panel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Panel.cs",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ErrorPanel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\ErrorPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\ErrorPanel.cs",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SubscribePanel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\User Interfaces\\SubscribePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\User Interfaces\\SubscribePanel.cs",
@@ -176,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PanelManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PanelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PanelManager.cs",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Singleton.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Core\\Singleton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Singleton.cs",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayfabManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Server\\Program\\Assets\\Scripts\\Managers\\PlayfabManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PlayfabManager.cs",

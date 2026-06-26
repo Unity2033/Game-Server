@@ -79,6 +79,7 @@
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\Utilities\DestroyOnStart.cs" />
     <Compile Include="Assets\Scripts\Data\Panel.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\FriendItem.cs" />
+    <Compile Include="Assets\Scripts\Character\Character.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Demo Chat\Code\ChatNewGui.cs" />
     <Compile Include="Assets\Scripts\Core\Singleton.cs" />
     <Compile Include="Assets\Scripts\User Interfaces\ErrorPanel.cs" />
