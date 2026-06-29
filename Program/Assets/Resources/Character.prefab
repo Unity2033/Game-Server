@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 3085963812188843775}
   - component: {fileID: 8707805488638065377}
   - component: {fileID: 958994421538443544}
+  - component: {fileID: 3050751602178606122}
   m_Layer: 0
   m_Name: eyes
   m_TagString: Untagged
@@ -300,6 +301,22 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
+--- !u!114 &3050751602178606122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754398754436792086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3dfc08de160384fb842f8079c7a63e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Rotation
+  axis: 0
+  speed: 0
+  mouseX: 0
+  mouseY: 0
 --- !u!1 &4077009059422830978
 GameObject:
   m_ObjectHideFlags: 0
@@ -901,6 +918,9 @@ GameObject:
   - component: {fileID: 5499201777051635413}
   - component: {fileID: 1533841255768596827}
   - component: {fileID: 7629978001736317308}
+  - component: {fileID: 1677536362442623946}
+  - component: {fileID: 1732691457240461219}
+  - component: {fileID: 5013787597851676877}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -966,7 +986,9 @@ MonoBehaviour:
   Synchronization: 3
   OwnershipTransfer: 0
   observableSearch: 2
-  ObservedComponents: []
+  ObservedComponents:
+  - {fileID: 1677536362442623946}
+  - {fileID: 1732691457240461219}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
@@ -982,6 +1004,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ca83e22e04959d488d520f149c213eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Character
+  speed: 5
+  direction: {x: 0, y: 0, z: 0}
+  rotation: {fileID: 0}
+  rigidBody: {fileID: 0}
 --- !u!54 &1533841255768596827
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1007,7 +1033,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!136 &7629978001736317308
 CapsuleCollider:
@@ -1032,6 +1058,54 @@ CapsuleCollider:
   m_Height: 2.5
   m_Direction: 1
   m_Center: {x: 0, y: 1, z: 0}
+--- !u!114 &1677536362442623946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7590926762922687271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64179f3720bbfe947b7724caa67b7c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PhotonUnityNetworking::Photon.Pun.PhotonRigidbodyView
+  m_SynchronizeVelocity: 1
+  m_SynchronizeAngularVelocity: 0
+  m_TeleportEnabled: 0
+  m_TeleportIfDistanceGreaterThan: 3
+--- !u!114 &1732691457240461219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7590926762922687271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PhotonUnityNetworking::Photon.Pun.PhotonTransformView
+  m_SynchronizePosition: 1
+  m_SynchronizeRotation: 1
+  m_SynchronizeScale: 0
+  m_UseLocal: 1
+--- !u!114 &5013787597851676877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7590926762922687271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3dfc08de160384fb842f8079c7a63e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Rotation
+  axis: 0
+  speed: 100
+  mouseX: 0
+  mouseY: 0
 --- !u!1 &8341788247673560789
 GameObject:
   m_ObjectHideFlags: 0

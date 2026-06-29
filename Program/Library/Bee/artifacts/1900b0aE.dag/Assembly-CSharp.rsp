@@ -133,6 +133,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
@@ -486,6 +487,7 @@
 "Assets/Photon/PhotonChat/Demos/Demo Chat/Code/Utilities/TextToggleIsOnTransition.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
 "Assets/Scripts/Character/Character.cs"
+"Assets/Scripts/Character/Head.cs"
 "Assets/Scripts/Core/Singleton.cs"
 "Assets/Scripts/Data/Data.cs"
 "Assets/Scripts/Data/Panel.cs"
@@ -493,6 +495,7 @@
 "Assets/Scripts/Managers/PanelManager.cs"
 "Assets/Scripts/Managers/PlayfabManager.cs"
 "Assets/Scripts/Managers/RoomManager.cs"
+"Assets/Scripts/System/Rotation.cs"
 "Assets/Scripts/User Interfaces/ErrorPanel.cs"
 "Assets/Scripts/User Interfaces/RoomPanel.cs"
 "Assets/Scripts/User Interfaces/RoomStatus.cs"
